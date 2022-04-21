@@ -17,7 +17,7 @@
 <br>
 <hr>
  
-  ![Snake animation](https://github.com/puermatz)
+   ![Snake animation](https://github.com/puermatz/puermatz/blob/output/github-contribution-grid-snake.svg))
  
 </div>
  
